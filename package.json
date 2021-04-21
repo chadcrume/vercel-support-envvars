@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "vercel-support",
   "main": "api/test.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadcrume/vercel-support-envvars.git"
+  },
   "scripts": {},
   "author": "Chad crume",
   "bugs": {},
