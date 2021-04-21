@@ -1,0 +1,11 @@
+{
+  "name": "vercel-support",
+  "version": "1.0.0",
+  "description": "vercel-support",
+  "main": "api/test.js",
+  "scripts": {},
+  "author": "Chad crume",
+  "bugs": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
