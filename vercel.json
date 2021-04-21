@@ -1,10 +1,6 @@
 {
     "functions": {
-        "api/deck/[deckName].js": {
-            "includeFiles": "api/deck/deckData/**"
-        },
-        "api/[gitUser]/[repo].js": {
-            "includeFiles": "*(cloud.env.js|gcp-key.json|api/[gitUser]/repos/**)"
+        "api/test.js": {
         }
     }
     ,
